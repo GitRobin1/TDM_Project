@@ -69,22 +69,6 @@ http://localhost:8501
 
 Tu devrais voir l'interface Streamlit, où tu peux explorer les images téléchargées, leurs métadonnées, les couleurs dominantes et les tags.
 
-## Structure du Projet
-
-```
-.
-├── Dockerfile               # Fichier de configuration Docker
-├── .dockerignore            # Fichier pour ignorer certains fichiers dans Docker
-├── README.md                # Ce fichier de documentation
-├── download_images.py       # Script pour télécharger les images depuis Wikidata
-├── process_metadata.py      # Script pour traiter les métadonnées des images
-├── main.py                  # Script principal pour lancer l'application Streamlit
-├── requirements.txt         # Liste des dépendances Python
-├── images/                  # Dossier contenant les images téléchargées
-├── metadata.json            # Métadonnées des images téléchargées
-└── processed_metadata.json  # Métadonnées traitées (avec couleurs et tags)
-```
-
 ## Auteurs
 
 - **Robin** - Créateur de ce projet
