@@ -35,7 +35,7 @@ def fetch_images_from_wikidata(limit=500):
     results = sparql.query().convert()
     return [result["image"]["value"] for result in results["results"]["bindings"]]
 
-def download_images(image_dir="./images", metadata_file="./metadata.json", target_image_count=100):
+def download_images(image_dir="./images", metadata_file="./export/metadata.json", target_image_count=100):
     os.makedirs(image_dir, exist_ok=True)
     metadata_list = []
     downloaded_images = set()

@@ -1,0 +1,26 @@
+[
+    {
+        "file_name": "image_100.jpg",
+        "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sh2-126%2C%20the%20Star%20Funnel%20%28noao-sh2-126%29.jpg",
+        "width": 8067,
+        "height": 8034,
+        "format": "JPEG",
+        "orientation": "Paysage",
+        "exif": {
+            "Software": "Adobe Photoshop CS6 (Macintosh)",
+            "DateTime": "2014:04:25 12:41:10",
+            "ImageDescription": "This image was obtained with the wide-field view of the Mosaic camera on the Mayall 4-meter telescope at Kitt Peak National Observatory. Informally known as the 'star funnel', this dark nebula is yellowish in color because it is being illuminated by several bright stars nearby. The funnel is embedded in a larger nebula of warm hydrogen gas that is glowing red. The image was generated with observations in B (blue), V (green), I (orange) and Hydrogen-Alpha (red) filters. In this image, North is up, East is to the left."
+        },
+        "colors": [
+            "#ab937d",
+            "#551623",
+            "#ded3b3",
+            "#0f0712",
+            "#76524f"
+        ],
+        "tags": [
+            "#paysage",
+            "#jpeg"
+        ]
+    }
+]

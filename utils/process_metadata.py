@@ -35,7 +35,7 @@ def generate_tags(metadata):
         tags.add(f"#{metadata['exif']['Make'].lower()}")
     return list(tags)
 
-def process_metadata(image_dir, metadata_file, output_file="processed_metadata.json"):
+def process_metadata(image_dir, metadata_file, output_file="export/processed_metadata.json"):
     if not os.path.isfile(metadata_file):
         print("⚠️ Fichier metadata.json introuvable.")
         return

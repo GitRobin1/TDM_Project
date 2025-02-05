@@ -38,7 +38,9 @@ Si tu ne l'as pas encore fait, clone ce projet dans ton répertoire local :
 
 ```bash
 git clone https://github.com/GitRobin1/TDM_Project.git
-cd ton-repertoire
+```
+```
+cd TDM_Project
 ```
 
 ### 2. Crée l'image Docker
@@ -46,7 +48,7 @@ cd ton-repertoire
 Construis l'image Docker avec la commande suivante dans ton terminal :
 
 ```bash
-docker build -t app .
+docker-compose build
 ```
 
 ### 3. Lance le conteneur Docker
@@ -54,7 +56,7 @@ docker build -t app .
 Une fois l'image construite, exécute le conteneur :
 
 ```bash
-docker run -p 8501:8501 app
+docker-compose up
 ```
 
 ### 4. Accède à l'application
