@@ -1,0 +1,8 @@
+requests
+Pillow
+SPARQLWrapper
+opencv-python
+scikit-learn
+streamlit
+matplotlib
+numpy
