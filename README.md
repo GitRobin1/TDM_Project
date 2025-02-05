@@ -37,7 +37,7 @@ Ces dépendances sont incluses dans le fichier `requirements.txt` et seront auto
 Si tu ne l'as pas encore fait, clone ce projet dans ton répertoire local :
 
 ```bash
-git clone !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+git clone https://github.com/GitRobin1/TDM_Project.git
 cd ton-repertoire
 ```
 

@@ -1,0 +1,8 @@
+version: '3'
+services:
+  app:
+    build: .
+    volumes:
+      - ./images:/app/images
+    ports:
+      - "8501:8501"
