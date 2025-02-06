@@ -21,7 +21,7 @@ def main():
     print(f"Métadonnées mises à jour dans : {output_metadata_file}")
 
     print("Lancement de l'application Streamlit...")
-    subprocess.run(["streamlit", "run", "app.py"])
+    subprocess.run(["python", "-m", "streamlit", "run", "app.py"])
 
 if __name__ == "__main__":
     main()
