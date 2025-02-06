@@ -39,27 +39,39 @@ def main():
 
     image_files = [m["file_name"] for m in metadata_list]
 
-    selected_image = st.selectbox("Sélectionnez une image :", image_files, key="image_select")
-
-    image_metadata = next((m for m in metadata_list if m["file_name"] == selected_image), None)
-
+    # Initialiser l'index dans session_state si non défini
     if 'image_index' not in st.session_state:
         st.session_state.image_index = 0
 
-    image_index = st.session_state.image_index
-    selected_image = image_files[image_index]
+    # Sélecteur d'images synchronisé avec session_state
+    selected_image = st.selectbox(
+        "Sélectionnez une image :", 
+        image_files, 
+        index=st.session_state.image_index,  
+        key="image_select"
+    )
+
+    # Mettre à jour l'index lorsque l'utilisateur sélectionne une image
+    if selected_image != image_files[st.session_state.image_index]:  
+        st.session_state.image_index = image_files.index(selected_image)
+        st.rerun()  # Force la mise à jour immédiate
 
     col1, col2, col3 = st.columns([1, 6, 1])
 
     with col1:
         if st.button("◁"):
             st.session_state.image_index = (st.session_state.image_index - 1) % len(image_files)
+            st.rerun()  # Mise à jour immédiate après un changement
+
     with col3:
         if st.button("▷"):
             st.session_state.image_index = (st.session_state.image_index + 1) % len(image_files)
+            st.rerun()  # Mise à jour immédiate après un changement
 
+    # Mise à jour de l’image sélectionnée
     selected_image = image_files[st.session_state.image_index]
 
+    # Affichage de l'image
     image_path = os.path.join(image_dir, selected_image)
     image = Image.open(image_path)
     image = image.resize((300, int(300 * image.height / image.width)))
@@ -69,6 +81,7 @@ def main():
     with col2:
         st.image(image, caption=selected_image)
 
+    # Récupération des métadonnées
     image_metadata = next((m for m in metadata_list if m["file_name"] == selected_image), None)
 
     if image_metadata:
@@ -91,4 +104,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-

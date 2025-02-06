@@ -176,45 +176,6 @@
     },
     {
         "file_name": "image_16.jpg",
-        "url": "http://commons.wikimedia.org/wiki/Special:FilePath/NASA%E2%80%99s%20Hubble%20Sees%20a%20Cosmic%20Caterpillar%20%289621392263%29.jpg",
-        "width": 2835,
-        "height": 1824,
-        "format": "JPEG",
-        "orientation": "Paysage",
-        "exif": {
-            "ImageWidth": "3000",
-            "ImageLength": "2400",
-            "BitsPerSample": "(8, 8, 8)",
-            "PhotometricInterpretation": "2",
-            "ResolutionUnit": "2",
-            "ExifOffset": "232",
-            "Software": "Adobe Photoshop CS5 Macintosh",
-            "Orientation": "1",
-            "DateTime": "2013:08:29 13:02:14",
-            "SamplesPerPixel": "3",
-            "XResolution": "300.0",
-            "YResolution": "300.0",
-            "ExifVersion": "b'0220'",
-            "ColorSpace": "65535",
-            "ExifImageWidth": "2835",
-            "ExifImageHeight": "1824"
-        }
-    },
-    {
-        "file_name": "image_17.jpg",
-        "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sh2-308.jpg",
-        "width": 4028,
-        "height": 4113,
-        "format": "JPEG",
-        "orientation": "Portrait",
-        "exif": {
-            "Software": "Adobe Photoshop CC 2015.5 (Windows)",
-            "DateTime": "2016:10:19 08:46:08",
-            "ImageDescription": "  This entrancing image shows a few of the tenuous threads that comprise Sh2-308, a faint and wispy shell of gas located 5200 light-years away in the constellation of Canis Major (The Great Dog). Sh2-308 is a large bubble-like structure wrapped around an extremely large, bright type of star known as a Wolf-Rayet Star â this particular star is called EZ Canis Majoris. These type of stars are among the brightest and most massive stars in the Universe, tens of times more massive than our own Sun, and they represent the extremes of stellar evolution. Thick winds continually poured off the progenitors of  such stars, flooding their surroundings and draining the outer layers of  the Wolf-Rayet stars. The fast wind of a Wolf-Rayet star therefore sweeps up the  surrounding material to form bubbles of gas. EZ Canis Majoris is responsible for creating the bubble of Sh2-308 â the star threw off its outer layers to create the strands visible here. The intense and ongoing radiation from the star pushes the bubble out further and further, blowing it bigger and bigger. Currently the edges of Sh2-308 are some 60 light-years apart! Beautiful as these cosmic bubbles are, they are fleeting. The same stars that form them will also cause their death, eclipsing and subsuming them in violent supernova explosions."
-        }
-    },
-    {
-        "file_name": "image_18.jpg",
         "url": "http://commons.wikimedia.org/wiki/Special:FilePath/IC%204955%20%28noao-ic4955block%29.jpg",
         "width": 1441,
         "height": 972,
@@ -227,7 +188,7 @@
         }
     },
     {
-        "file_name": "image_19.jpg",
+        "file_name": "image_17.jpg",
         "url": "http://commons.wikimedia.org/wiki/Special:FilePath/IC%202162%20%28noao-ic2162wessels%29.jpg",
         "width": 1498,
         "height": 1000,
@@ -240,7 +201,7 @@
         }
     },
     {
-        "file_name": "image_20.png",
+        "file_name": "image_18.png",
         "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Soul%20Pillar%20%2848344101782%29.png",
         "width": 3599,
         "height": 3828,
@@ -249,7 +210,7 @@
         "exif": {}
     },
     {
-        "file_name": "image_21.jpg",
+        "file_name": "image_19.jpg",
         "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ic1274s.jpg",
         "width": 800,
         "height": 1158,
@@ -276,7 +237,7 @@
         }
     },
     {
-        "file_name": "image_22.jpg",
+        "file_name": "image_20.jpg",
         "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ic417s.jpg",
         "width": 1218,
         "height": 1086,
@@ -303,7 +264,7 @@
         }
     },
     {
-        "file_name": "image_23.jpg",
+        "file_name": "image_21.jpg",
         "url": "http://commons.wikimedia.org/wiki/Special:FilePath/IC142%20-%20SDSS%20DR14.jpg",
         "width": 800,
         "height": 800,
@@ -312,7 +273,7 @@
         "exif": {}
     },
     {
-        "file_name": "image_24.jpg",
+        "file_name": "image_22.jpg",
         "url": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20scarlet%20cosmic%20sea%20%28potw2318a%29.jpg",
         "width": 1676,
         "height": 1684,
@@ -325,7 +286,7 @@
         }
     },
     {
-        "file_name": "image_25.jpg",
+        "file_name": "image_23.jpg",
         "url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Gum%2015%20star%20formation%20region.jpg",
         "width": 8660,
         "height": 7419,
@@ -336,7 +297,7 @@
         }
     },
     {
-        "file_name": "image_26.jpg",
+        "file_name": "image_24.jpg",
         "url": "http://commons.wikimedia.org/wiki/Special:FilePath/RCW%2036%20in%20Infrared%20and%20X-ray.jpg",
         "width": 955,
         "height": 847,
@@ -356,7 +317,7 @@
         }
     },
     {
-        "file_name": "image_27.jpg",
+        "file_name": "image_25.jpg",
         "url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20star%20forming%20cloud%20RCW%2034.jpg",
         "width": 3439,
         "height": 3500,
@@ -368,7 +329,7 @@
         }
     },
     {
-        "file_name": "image_28.jpg",
+        "file_name": "image_26.jpg",
         "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Stellar%20nursery%20Gum%2029%20aka%20RCW%2049.jpg",
         "width": 8228,
         "height": 8277,
@@ -395,7 +356,7 @@
         }
     },
     {
-        "file_name": "image_29.jpg",
+        "file_name": "image_27.jpg",
         "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Wide-field%20view%20of%20the%20entire%20Seagull%20Nebula%20%28IC%202177%29.jpg",
         "width": 10693,
         "height": 10714,
@@ -423,7 +384,7 @@
         }
     },
     {
-        "file_name": "image_30.jpg",
+        "file_name": "image_28.jpg",
         "url": "http://commons.wikimedia.org/wiki/Special:FilePath/RCW%2041%20%28gemini-2013-rcw41-legacy%29.jpg",
         "width": 3616,
         "height": 4416,
@@ -438,7 +399,7 @@
         }
     },
     {
-        "file_name": "image_31.jpg",
+        "file_name": "image_29.jpg",
         "url": "http://commons.wikimedia.org/wiki/Special:FilePath/RCW%2079%20%28Emission%20nebula%29.jpg",
         "width": 960,
         "height": 960,
@@ -468,7 +429,7 @@
         }
     },
     {
-        "file_name": "image_32.jpg",
+        "file_name": "image_30.jpg",
         "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Lambda%20Orionis.jpg",
         "width": 1512,
         "height": 1101,
@@ -477,7 +438,7 @@
         "exif": {}
     },
     {
-        "file_name": "image_33.jpg",
+        "file_name": "image_31.jpg",
         "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sharpless%20112%2C%20Emission%20Nebula%20%28noao-sh2-112%29.jpg",
         "width": 4992,
         "height": 8080,
@@ -490,7 +451,7 @@
         }
     },
     {
-        "file_name": "image_34.jpg",
+        "file_name": "image_32.jpg",
         "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Emission%20Nebula%20Sh2-114%20%28noao-sh2-114%29.jpg",
         "width": 8646,
         "height": 5681,
@@ -500,6 +461,45 @@
             "Software": "Adobe Photoshop CS3 Macintosh",
             "DateTime": "2012:07:31 05:47:55",
             "ImageDescription": "This image was obtained with the wide-field view of the Mosaic camera on the Mayall 4-meter telescope at Kitt Peak National Observatory. Sh2-114 is a complex and unusual HII emission nebula. Its complex, wispy structure is likely the result of winds from hot, massive stars interacting with the magnetic fields in the interstellar medium. But very little is known about it. The image was generated with observations in the Hydrogen alpha (red) and Oxygen [OIII] (blue) filters. In this image, North is left, East is down."
+        }
+    },
+    {
+        "file_name": "image_33.jpg",
+        "url": "http://commons.wikimedia.org/wiki/Special:FilePath/NASA%E2%80%99s%20Hubble%20Sees%20a%20Cosmic%20Caterpillar%20%289621392263%29.jpg",
+        "width": 2835,
+        "height": 1824,
+        "format": "JPEG",
+        "orientation": "Paysage",
+        "exif": {
+            "ImageWidth": "3000",
+            "ImageLength": "2400",
+            "BitsPerSample": "(8, 8, 8)",
+            "PhotometricInterpretation": "2",
+            "ResolutionUnit": "2",
+            "ExifOffset": "232",
+            "Software": "Adobe Photoshop CS5 Macintosh",
+            "Orientation": "1",
+            "DateTime": "2013:08:29 13:02:14",
+            "SamplesPerPixel": "3",
+            "XResolution": "300.0",
+            "YResolution": "300.0",
+            "ExifVersion": "b'0220'",
+            "ColorSpace": "65535",
+            "ExifImageWidth": "2835",
+            "ExifImageHeight": "1824"
+        }
+    },
+    {
+        "file_name": "image_34.jpg",
+        "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sh2-308.jpg",
+        "width": 4028,
+        "height": 4113,
+        "format": "JPEG",
+        "orientation": "Portrait",
+        "exif": {
+            "Software": "Adobe Photoshop CC 2015.5 (Windows)",
+            "DateTime": "2016:10:19 08:46:08",
+            "ImageDescription": "  This entrancing image shows a few of the tenuous threads that comprise Sh2-308, a faint and wispy shell of gas located 5200 light-years away in the constellation of Canis Major (The Great Dog). Sh2-308 is a large bubble-like structure wrapped around an extremely large, bright type of star known as a Wolf-Rayet Star â this particular star is called EZ Canis Majoris. These type of stars are among the brightest and most massive stars in the Universe, tens of times more massive than our own Sun, and they represent the extremes of stellar evolution. Thick winds continually poured off the progenitors of  such stars, flooding their surroundings and draining the outer layers of  the Wolf-Rayet stars. The fast wind of a Wolf-Rayet star therefore sweeps up the  surrounding material to form bubbles of gas. EZ Canis Majoris is responsible for creating the bubble of Sh2-308 â the star threw off its outer layers to create the strands visible here. The intense and ongoing radiation from the star pushes the bubble out further and further, blowing it bigger and bigger. Currently the edges of Sh2-308 are some 60 light-years apart! Beautiful as these cosmic bubbles are, they are fleeting. The same stars that form them will also cause their death, eclipsing and subsuming them in violent supernova explosions."
         }
     },
     {
